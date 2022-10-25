@@ -55,6 +55,10 @@ body{
   justify-content: center;
   align-items: center;
 }
+.center {
+  width: 130%;
+  margin-left: -15%;
+}
 
 .text .header {
   font-weight: bold;
